@@ -21,7 +21,7 @@
 ## 个人负责项目部分（图）
 - [表格1+图表受教育情况](http://181013030likeen.pythonanywhere.com/index2)
 - [表格2+图表0-14新增感染HIV](http://181013030likeen.pythonanywhere.com/index)
-- [GDB、教育率](http://181013030likeen.pythonanywhere.com/show_pyecharts)
-- [15岁新感染HIV情况](http://181013030likeen.pythonanywhere.com/map2)
+- [GDB、教育率（图表）](http://181013030likeen.pythonanywhere.com/show_pyecharts)
+- [15岁新感染HIV情况（地图）](http://181013030likeen.pythonanywhere.com/map2)
 ## 网站页面共8个
 - 创建的页面使用了results3.html、results1.html、show_pyechart1.html、map2.html4个文档。
